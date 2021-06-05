@@ -9,7 +9,7 @@
 
 <!-- Mirrored from html.modernwebtemplates.com/dotcreative/contact3.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 21 May 2021 04:17:26 GMT -->
 <head>
-	<title>DotCreative – Web Design Agency HTML Template</title>
+	<title>Contact Us</title>
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -649,33 +649,33 @@
 							</nav> -->
 							<!-- eof main nav -->
 						<!-- </div> -->
-						<div class="col-xl-2 col-lg-3 text-lg-left text-xl-right d-none d-lg-block">
+						<!-- <div class="col-xl-2 col-lg-3 text-lg-left text-xl-right d-none d-lg-block">
 							<div class="header_phone">
 								<h6>
 									<span>1-800</span>-123-4567
 								</h6>
 							</div>
-						</div>
+						</div> -->
 						<!-- <div class="search_modal affix-top">
                 <a href="#" class="search_modal_button header-button">
                     <i class="fa fa-search"></i>
                 </a>
-            </div> -->
+            </div> 
 					</div>
-				</div>
+				</div>-->
 				<!-- header toggler -->
-				<span class="toggle_menu">
+				<!-- <span class="toggle_menu">
 					<span></span>
 				</span>
 			</header>
-
+ -->
 
 			<section class="page_title ls s-py-50 corner-title ls invise overflow-visible">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12 text-center">
-							<h1>Contact 3</h1>
-							<ol class="breadcrumb">
+							<h1>Contact Us</h1>
+							<!-- <ol class="breadcrumb">
 								<li class="breadcrumb-item">
 									<a href="index-2.html">Home</a>
 								</li>
@@ -685,7 +685,7 @@
 								<li class="breadcrumb-item active">
 									Contact 3
 								</li>
-							</ol>
+							</ol> -->
 							<div class="divider-15 d-none d-xl-block"></div>
 						</div>
 					</div>
@@ -707,7 +707,7 @@
 								Call Us
 							</h6>
 							<p class="teaser-content">
-								<strong>New Accounts:</strong> 1-800-123-4567
+								<strong>New Accounts:</strong> +9180807 85714
 								<br>
 								<strong>Support:</strong> 1-800-123-4569
 							</p>
@@ -736,8 +736,8 @@
 								Visit Us
 							</h6>
 							<p class="teaser-content">
-								2231 Sycamore Lake Road
-								<br> Green Bay, WI 54304
+								Dempo Towers
+								<br> Panjim Goa
 							</p>
 						</div>
 					</div>
@@ -758,7 +758,7 @@
 							</p>
 							<h6>
 								Call Us Now:
-								<span class="color-main">1-800-123-4567</span>
+								<span class="color-main">+91 8080785714</span>
 								<span class="small">or...</span>
 							</h6>
 							<a href="#" class="btn btn-outline-maincolor">Start Chat Now!</a>

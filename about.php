@@ -88,7 +88,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12 text-center">
-							<h1>About</h1>
+							<h1>About Us</h1>
 							<!-- <ol class="breadcrumb">
 								<li class="breadcrumb-item">
 									<a href="index-2.html">Home</a>
@@ -204,7 +204,7 @@
 											<a class="small-text" href="gallery-regular.html">web-design</a>
 										</h6>
 										<h6>
-											<a href="gallery-regular.html">Web Design</a>
+											<a href="#">Web Design</a>
 										</h6>
 									</div>
 								</div>
@@ -220,7 +220,7 @@
 											<a class="small-text" href="gallery-regular.html">UI-design</a>
 										</h6>
 										<h6>
-											<a href="gallery-regular.html">UI Design</a>
+											<a href="#">UI Design</a>
 										</h6>
 									</div>
 								</div>
@@ -236,7 +236,7 @@
 											<a class="small-text" href="gallery-regular.html">advertisement</a>
 										</h6>
 										<h6>
-											<a href="gallery-regular.html">Digital Marketing</a>
+											<a href="#">Digital Marketing</a>
 										</h6>
 									</div>
 								</div>
@@ -252,7 +252,7 @@
 											<a class="small-text" href="gallery-regular.html">branding</a>
 										</h6>
 										<h6>
-											<a href="gallery-regular.html">Business Consultancy</a>
+											<a href="#">Business Consultancy</a>
 										</h6>
 									</div>
 								</div>
@@ -268,7 +268,7 @@
 											<a class="small-text" href="gallery-regular.html">Coding</a>
 										</h6>
 										<h6>
-											<a href="gallery-regular.html">Web Development</a>
+											<a href="#">Web Development</a>
 										</h6>
 									</div>
 								</div>
@@ -284,7 +284,7 @@
 											<a class="small-text" href="gallery-regular.html">Marketingf</a>
 										</h6>
 										<h6>
-											<a href="gallery-regular.html">Social Media Marketing</a>
+											<a href="#">Social Media Marketing</a>
 										</h6>
 									</div>
 								</div>

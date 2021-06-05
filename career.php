@@ -9,7 +9,7 @@
 
 <!-- Mirrored from html.modernwebtemplates.com/dotcreative/contact3.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 21 May 2021 04:17:26 GMT -->
 <head>
-	<title>DotCreative – Web Design Agency HTML Template</title>
+	<title>Careers</title>
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -24,6 +24,7 @@
 	<link rel="stylesheet" href="css/font-awesome.css">
 	<link rel="stylesheet" href="css/main.css" class="color-switcher-link">
 	<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+	<script src="js/vendor/main.js"></script>
 
 	<!--[if lt IE 9]>
 		<script src="js/vendor/html5shiv.min.js"></script>
@@ -649,33 +650,33 @@
 							</nav> -->
 							<!-- eof main nav -->
 						<!-- </div> -->
-						<div class="col-xl-2 col-lg-3 text-lg-left text-xl-right d-none d-lg-block">
+						<!-- <div class="col-xl-2 col-lg-3 text-lg-left text-xl-right d-none d-lg-block">
 							<div class="header_phone">
 								<h6>
 									<span>1-800</span>-123-4567
 								</h6>
 							</div>
-						</div>
+						</div> -->
 						<!-- <div class="search_modal affix-top">
                 <a href="#" class="search_modal_button header-button">
                     <i class="fa fa-search"></i>
                 </a>
-            </div> -->
+            </div> 
 					</div>
-				</div>
+				</div>-->
 				<!-- header toggler -->
-				<span class="toggle_menu">
+				<!-- <span class="toggle_menu">
 					<span></span>
 				</span>
 			</header>
-
+ -->
 
 			<section class="page_title ls s-py-50 corner-title ls invise overflow-visible">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12 text-center">
-							<h1>Contact 3</h1>
-							<ol class="breadcrumb">
+							<h1>Careers</h1>
+							<!-- <ol class="breadcrumb">
 								<li class="breadcrumb-item">
 									<a href="index-2.html">Home</a>
 								</li>
@@ -685,7 +686,7 @@
 								<li class="breadcrumb-item active">
 									Contact 3
 								</li>
-							</ol>
+							</ol> -->
 							<div class="divider-15 d-none d-xl-block"></div>
 						</div>
 					</div>
@@ -707,7 +708,7 @@
 								Call Us
 							</h6>
 							<p class="teaser-content">
-								<strong>New Accounts:</strong> 1-800-123-4567
+								<strong>New Accounts:</strong> +9180807 85714
 								<br>
 								<strong>Support:</strong> 1-800-123-4569
 							</p>
@@ -736,8 +737,8 @@
 								Visit Us
 							</h6>
 							<p class="teaser-content">
-								2231 Sycamore Lake Road
-								<br> Green Bay, WI 54304
+								Dempo Towers
+								<br> Panjim Goa
 							</p>
 						</div>
 					</div>
@@ -745,7 +746,7 @@
 				<div class="divider-10 d-none d-xl-block"></div>
 			</section>
 
-			<section class="ls support-section s-py-10 s-py-lg-100 s-py-xl-130 text-md-center text-lg-left">
+			<!-- <section class="ls support-section s-py-10 s-py-lg-100 s-py-xl-130 text-md-center text-lg-left">
 				<div class="container">
 					<div class="row">
 						<div class="col-12 col-md-12 col-lg-5">
@@ -758,18 +759,19 @@
 							</p>
 							<h6>
 								Call Us Now:
-								<span class="color-main">1-800-123-4567</span>
+								<span class="color-main">+91 8080785714</span>
 								<span class="small">or...</span>
 							</h6>
 							<a href="#" class="btn btn-outline-maincolor">Start Chat Now!</a>
 						</div>
 					</div>
 				</div>
-			</section>
-
+			</section>-->  
 			<section class="ls s-pt-50 s-pt-md-75 s-pb-130">
+
 				<div class="container">
 					<div class="row">
+						<center> <h3> Join Us </h3> </center>
 						<div class="divider-45 d-none d-xl-block"></div>
 						<div class="col-lg-12">
 							<form class="contact-form4 c-mb-20 c-gutter-20" method="post" action="https://html.modernwebtemplates.com/">
@@ -804,25 +806,36 @@
 									</div>
 									<div class="col-sm-6">
 										<div class="form-group has-placeholder">
-											<label for="subject">Your Topic
+											<label for="subject">Post you are applying for
 												<span class="required">*</span>
 											</label>
-											<input type="text" aria-required="true" size="30" value="" name="subject" id="subject" class="form-control" placeholder="Your Topic">
+											<input type="text" aria-required="true" size="30" value="" name="subject" id="subject" class="form-control" placeholder="Post you are applying for">
 										</div>
 									</div>
 								</div>
-								<div class="row">
-									<div class="col-sm-12">
-										<div class="form-group has-placeholder">
-											<label for="message">Your Message</label>
-											<textarea aria-required="true" rows="6" cols="45" name="message" id="message" class="form-control" placeholder="Your Message"></textarea>
-										</div>
-									</div>
-								</div>
-								<div class="row c-mt-0 c-mt-lg-20">
+
+								<!-- <div class="row">
+									<div class="col-sm-12"> -->
+										<!-- <div class="form-group has-placeholder"> -->
+											<!-- <center><label>Choose your file </label> </center>
+											<center><input type="file" id="myfile" name="myfile" placeholder="choose file"> </center> -->
+											<!-- <textarea aria-required="true" rows="6" cols="45" name="message" id="message" class="form-control" placeholder="Your Message"></textarea> -->
+										<!-- </div> -->
+									<!-- </div>
+								</div> -->
+
+								<!-- <center><label for="fileUpload">Upload file</label>
+ 								 <input type="file" id="fileUpload" style="color:#b00b11";> </center -->
+ 								 
+ 								 <form class="form">
+ 								 	<div class="file-upload-wrapper" data-text="Select your file!">
+ 								 	<input name="file-upload-field" type="file" class="file-upload-field" value="">
+ 								 </div> </form
+
+ 								 		<div class="row c-mt-0 c-mt-lg-20">
 									<div class="col-sm-12 text-center">
 										<div class="form-group">
-											<button type="submit" id="contact_form_submit" name="contact_submit" class="btn btn-maincolor">Send Message</button>
+											<button type="submit" id="contact_form_submit" name="contact_submit" class="btn btn-maincolor">Submit</button>
 										</div>
 									</div>
 								</div>
@@ -832,7 +845,7 @@
 					</div>
 				</div>
 			</section>
-
+</form>
 			<!-- <footer class="page_footer corner-footer ds s-pt-30 s-pb-0 s-pb-lg-10 s-pb-xl-50 c-gutter-60 s-parallax">
 
 				<div class="container">

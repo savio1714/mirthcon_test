@@ -6721,7 +6721,7 @@ body.boxed {
 }
 
 .ds {
-	background-color: #1f2732;
+	background-color: white;
 	color: #9a9a9a
 }
 
@@ -6755,7 +6755,7 @@ body.boxed {
 .ds h4,
 .ds h5,
 .ds h6 {
-	color: #fff
+	color: white;
 }
 
 .ds h1 a,
@@ -12405,7 +12405,7 @@ a img.aligncenter {
 		color: #B00B11
 	}
 	.ds .sf-menu>li>a {
-		color: #fff
+		color: #a8a8a8;
 	}
 	.ds .sf-menu>li>a:hover,
 	.ds .sf-menu>li.active>a {
@@ -13039,7 +13039,7 @@ a img.aligncenter {
 .header_absolute .page_toplogo,
 .header_absolute .page_header_wrapper,
 .header_absolute .page_title {
-	background-color: rgba(31, 39, 50, .5)
+	background-color: white
 }
 
 #canvas:not(.boxed) .header_absolute .page_header.affix-top {
@@ -18115,7 +18115,8 @@ a.btn {
 
 .header_phone h6 {
 	font-size: 24px;
-	font-weight: 200
+	font-weight: 200;
+	color: black;
 }
 
 .header_phone span {
@@ -21802,15 +21803,15 @@ input[type=text].search-text {
 }
 
 .book-item .book .stage.book-1 div {
-	background-image: url(images/book-hov-1.png)
+	background-image: url(img/book-hov-1.png)
 }
 
 .book-item .book .stage.book-2 div {
-	background-image: url(images/book-hov-1.png)
+	background-image: url(img/book-hov-1.png)
 }
 
 .book-item .book .stage.book-3 div {
-	background-image: url(images/book-hov-1.png)
+	background-image: url(img/book-hov-1.png)
 }
 
 .book-item .book .stage * {
@@ -22166,4 +22167,33 @@ h5 {
 
 .checkbox-slider--b-flat input+span:before {
 	box-shadow: none
+}
+
+
+
+}
+.file-upload-wrapper {
+	position: relative;
+	width: 100%;
+	height: 60px;
+	cursor: pointer;
+
+}
+
+.file-upload-wrapper :: after{
+	content: attr(data-text);
+	font-size: 18px;
+	position: absolute;
+	top:0;
+	left: 0;
+	background:grey;
+	padding: 10px 15px;
+	display: block;
+	width:cal(100% - 40px);
+	z-index: 20;
+	height: 40px;
+	color:#999;
+	border-radius: 5px 10px 10 px 5px;
+	font-weight: 300;
+
 }

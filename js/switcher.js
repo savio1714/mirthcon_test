@@ -13,7 +13,7 @@ jQuery(document).ready(function(){
 	}
 	}
 
-	var switcherHTML = '<div id="switcher">';
+	/*var switcherHTML = '<div id="switcher">';
 		switcherHTML +=    '<div class="color_switcher_header">';
 		switcherHTML +=    		'<span class="fa fa-cog"></span>';
 		switcherHTML +=    		deleteAllCookiesHTML;
@@ -32,7 +32,7 @@ jQuery(document).ready(function(){
 		switcherHTML +=        		'</li>';
 		switcherHTML +=    		'</ul>';
 		switcherHTML +=    	'</div>';
-
+*/
 		/*
 
 		switcherHTML +=    '<div id="switcher_color_scheme">';

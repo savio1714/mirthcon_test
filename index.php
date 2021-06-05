@@ -903,11 +903,11 @@
 								</div>
 							</div> -->
 							<!-- .testimonials-slider -->
-						</div>
+						<!-- </div>
 						<div class="divider-55 d-none d-md-block"></div>
 						<div class="text-center img-wrap col-md-12">
 							<img src="img/vertical_line2.png" alt="">
-						</div>
+						</div> -->
 						<div class="divider-10 d-none d-md-block"></div>
 					</div>
 				</div>

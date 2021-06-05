@@ -4,7 +4,7 @@
 						<div class="row align-items-center">
 							<div class="col-xl-2 col-lg-3 col-11">
 								<a href="index-2.html" class="logo text-center">
-									<img src="images/logoo.png" alt="" width="90px" height="90px">
+									<img src="images/logoo.png" alt="">
 								</a>
 							</div>
 							<div class="col-xl-8 col-lg-6 col-1 text-sm-center">
@@ -13,7 +13,7 @@
 									<ul class="nav sf-menu">
 
 
-										<li class="active">
+										<li class="<?php echo (basename($_SERVER['PHP_SELF'])=='index.php')?'active':''?>"> 
 											<a href="index.php">Home</a>
 											<!-- <ul>
 												<li>
@@ -30,11 +30,11 @@
 												</li>
 											</ul> -->
 										</li>
-										<li>
+										<li class="<?php echo (basename($_SERVER['PHP_SELF'])=='about.php')?'active':''?>"> 
 											<a href="about.php">About</a>
 										</li>
-										<li>
-											<a href="#">Web Development</a>
+										<li class="<?php echo (basename($_SERVER['PHP_SELF'])=='web_development.php')?'active':''?>"> 
+											<a href="web_development.php">Web Development</a>
 											<!-- <ul>
 												<li>
 													<a href="services1.html">Services 1</a>
@@ -73,8 +73,8 @@
 										<!-- blog -->
 
 										<!-- gallery -->
-										<li>
-											<a href="#">Consulting Services</a>
+										<li class="<?php echo (basename($_SERVER['PHP_SELF'])=='Business_con.php')?'active':''?>"> 
+											<a href="Business_con.php">Consulting Services</a>
 											<!-- <ul> -->
 												<!-- Gallery image only -->
 												<!-- <li>
@@ -157,8 +157,8 @@
 										<!-- eof Gallery -->
 
 
-										<li>
-											<a href="#">Careers</a>
+										<li class="<?php echo (basename($_SERVER['PHP_SELF'])=='career.php')?'active':''?>"> 
+											<a href="career.php">Careers</a>
 											<!-- <ul>
 												<li>
 													<a href="process.html">Process</a>
@@ -365,8 +365,8 @@
 										</li> -->
 										<!-- eof pages -->
 
-										<li>
-											<a href="contact2.php">Contact Us</a>
+										<li class="<?php echo (basename($_SERVER['PHP_SELF'])=='contact3.php')?'active':''?>"> 
+											<a href="contact3.php">Contact Us</a>
 											<!-- <ul>
 
 												<li>

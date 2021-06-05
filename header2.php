@@ -12,8 +12,8 @@
 									<ul class="nav sf-menu">
 
 
-										<li class="active">
-											<a href="index.php">Home</a>
+										 <li class="<?php echo (basename($_SERVER['PHP_SELF'])=='index.php')?'active':''?>"> 
+											<a href="index.php"> Home</a>
 											<!-- <ul>
 												<li>
 													<a href="index.php">Home 1</a>
@@ -29,11 +29,11 @@
 												</li>
 											</ul> -->
 										</li>
-										<li>
+										<li class="<?php echo (basename($_SERVER['PHP_SELF'])=='about.php')?'active':''?>"> 
 											<a href="about.php">About</a>
 										</li>
-										<li>
-											<a href="services1.html">Web Development</a>
+										<li class="<?php echo (basename($_SERVER['PHP_SELF'])=='web_development.php')?'active':''?>"> 
+											<a href="web_development.php">Web Development</a>
 											<!-- <ul>
 												<li>
 													<a href="services1.html">Services 1</a>
@@ -72,8 +72,8 @@
 										<!-- blog -->
 
 										<!-- gallery -->
-										<li>
-											<a href="gallery-regular.html">Consulting Services</a>
+										<li class="<?php echo (basename($_SERVER['PHP_SELF'])=='Business_con.php')?'active':''?>"> 
+											<a href="Business_con.php">Consulting Services</a>
 											<!-- <ul> -->
 												<!-- Gallery image only -->
 												<!-- <li>
@@ -156,8 +156,8 @@
 										<!-- eof Gallery -->
 
 
-										<li>
-											<a href="about.php">Careers</a>
+										<li class="<?php echo (basename($_SERVER['PHP_SELF'])=='career.php')?'active':''?>"> 
+											<a href="career.php">Careers</a>
 											<!-- <ul>
 												<li>
 													<a href="process.html">Process</a>
@@ -364,8 +364,8 @@
 										</li> -->
 										<!-- eof pages -->
 
-										<li>
-											<a href="contact2.php">Contact Us</a>
+										<li class="<?php echo (basename($_SERVER['PHP_SELF'])=='contact3.php')?'active':''?>"> 
+											<a href="contact3.php">Contact Us</a>
 											<!-- <ul>
 
 												<li>
