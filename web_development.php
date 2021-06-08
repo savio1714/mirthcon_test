@@ -18,6 +18,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	<!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="images/fav.png">
 
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/animations.css">
@@ -405,7 +407,7 @@
 
 	<script src="js/compressed.js"></script>
 	<script src="js/main.js"></script>
-	<script src="js/switcher.js"></script>
+	<!-- <script src="js/switcher.js"></script> -->
 
 </body>
 

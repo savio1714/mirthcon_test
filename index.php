@@ -16,6 +16,9 @@
 	<![endif]-->
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="images/fav.png">
+
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
@@ -841,8 +844,9 @@
 				</div>
 			</section> -->
 
-			<!-- <section class="s-pt-130 s-pb-15 s-pb-md-50 s-pt-xl-100 s-pb-lg-30 overflow-visible s-parallax testimonials-sliders main-testimonials ds" id="testimonials">
-				<div class="corner ls ms"></div>
+			<section class="s-pt-130 s-pb-15 s-pb-md-50 s-pt-xl-100 s-pb-lg-30 overflow-visible s-parallax   ds" id="testimonials">
+				<!-- <section class="s-pt-130 s-pb-15 s-pb-md-50 s-pt-xl-100 s-pb-lg-30 overflow-visible s-parallax testimonials-sliders main-testimonials ds" id="testimonials"> -->
+				<!-- <div class="corner ls ms"></div>
 				<div class="container">
 					<div class="row c-mt-30 c-mt-md-0">
 						<div class="divider-20"></div>
@@ -901,18 +905,18 @@
 									</p>
 
 								</div>
-							</div> -->
-							<!-- .testimonials-slider -->
-						<!-- </div>
+							</div>
+							
+						</div>
 						<div class="divider-55 d-none d-md-block"></div>
 						<div class="text-center img-wrap col-md-12">
 							<img src="img/vertical_line2.png" alt="">
-						</div> -->
+						</div>
 						<div class="divider-10 d-none d-md-block"></div>
 					</div>
-				</div>
+				</div> -->
 				<div class="testimonials-btn text-center">
-					<a href="#quote" class="btn-maincolor">
+					<a href="#" class="btn-maincolor">
 						<i class="fa fa-angle-up"></i>
 					</a>
 				</div>
@@ -1025,7 +1029,7 @@
 <!-- 	<script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script> -->
 	<script src="js/compressed.js"></script>
 	<script src="js/main.js"></script>
-	<script src="js/switcher.js"></script>
+	<!-- <script src="js/switcher.js"></script> -->
 
 </body>
 

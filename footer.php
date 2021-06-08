@@ -7,11 +7,11 @@
 							<div class="col-md-12 mt-4 text-center animate" data-animation="fadeInUp"> <br>
 								<img class="margin-negative" src="images/logoo.png" alt="" width="100px" height="100px">
 								<div class="widget widget_social_buttons">
-									<a href="../../www.facebook.com/index.html#" class="fa fa-facebook color-icon" title="facebook"></a>
-									<a href="../../www.twitter.com/index.html#" class="fa fa-twitter color-icon" title="twitter"></a>
-									<a href="../../www.plus.google.com/index.html#" class="fa fa-google color-icon" title="google"></a>
-									<a href="../../www.youtube.com/index.html#" class="fa fa-youtube-play color-icon" title="youtube-play"></a>
-									<a href="../../www.linkedin.com/index.html#" class="fa fa-linkedin color-icon" title="linkedin"></a>
+									<a href="#" class="fa fa-facebook color-icon" title="facebook"></a>
+									<a href="#" class="fa fa-twitter color-icon" title="twitter"></a>
+									<a href="#" class="fa fa-google color-icon" title="google"></a>
+									<a href="#" class="fa fa-youtube-play color-icon" title="youtube-play"></a>
+									<a href="#" class="fa fa-linkedin color-icon" title="linkedin"></a>
 								</div>
 							</div>
 						</div>

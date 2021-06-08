@@ -17591,17 +17591,7 @@ a.btn {
 	margin-top: -120px
 }
 
-.page_copyright {
-	font-size: 12px;
-	font-weight: 500;
-	letter-spacing: .2em;
-	text-transform: uppercase
-}
 
-.page_copyright.cover-background,
-.page_copyright.s-parallax {
-	background-image: url(../img/parallax/copyright_bg.jpg)
-}
 
 .item-hover-content {
 	overflow: hidden;
@@ -21802,7 +21792,7 @@ input[type=text].search-text {
 	}
 }
 
-.book-item .book .stage.book-1 div {
+/*.book-item .book .stage.book-1 div {
 	background-image: url(img/book-hov-1.png)
 }
 
@@ -21812,7 +21802,7 @@ input[type=text].search-text {
 
 .book-item .book .stage.book-3 div {
 	background-image: url(img/book-hov-1.png)
-}
+}*/
 
 .book-item .book .stage * {
 	box-sizing: border-box;

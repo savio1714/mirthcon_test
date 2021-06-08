@@ -18,13 +18,15 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	<!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="images/fav.png">
 
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/animations.css">
 	<link rel="stylesheet" href="css/font-awesome.css">
 	<link rel="stylesheet" href="css/main.css" class="color-switcher-link">
 	<script src="js/vendor/modernizr-2.6.2.min.js"></script>
-	<script src="js/vendor/main.js"></script>
+	<!-- <script src="js/vendor/main.js"></script> -->
 
 	<!--[if lt IE 9]>
 		<script src="js/vendor/html5shiv.min.js"></script>
@@ -830,7 +832,7 @@
  								 <form class="form">
  								 	<div class="file-upload-wrapper" data-text="Select your file!">
  								 	<input name="file-upload-field" type="file" class="file-upload-field" value="">
- 								 </div> </form
+ 								 </div> </form>
 
  								 		<div class="row c-mt-0 c-mt-lg-20">
 									<div class="col-sm-12 text-center">
@@ -888,9 +890,10 @@
 	<!-- eof #canvas -->
 
 
-	<script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/compressed.js"></script>
+	<!-- <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script> -->
+	<script src="js/compressed.js"></script>
 	<script src="js/main.js"></script>
-	<script src="js/switcher.js"></script>
+	<!-- <script src="js/switcher.js"></script> -->
 
 	<!-- Google Map Script -->
 	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>

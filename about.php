@@ -18,6 +18,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	<!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="images/fav.png">
 
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/animations.css">
@@ -466,7 +468,7 @@
 	<!-- <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script> -->
 	<script src="js/compressed.js"></script>
 	<script src="js/main.js"></script>
-	<script src="js/switcher.js"></script>
+	<!-- <script src="js/switcher.js"></script> -->
 
 	<!-- Google Map Script -->
 	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
