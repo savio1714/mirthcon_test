@@ -1,13 +1,10 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!-->
+
 <html class="no-js">
-<!--<![endif]-->
 
 
-<!-- Mirrored from html.modernwebtemplates.com/dotcreative/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 21 May 2021 04:15:18 GMT -->
+
+
 <head>
 	<title>Web Development</title>
 	<meta charset="utf-8">
@@ -410,7 +407,4 @@
 	<!-- <script src="js/switcher.js"></script> -->
 
 </body>
-
-
-<!-- Mirrored from html.modernwebtemplates.com/dotcreative/service-single3.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 21 May 2021 04:15:42 GMT -->
 </html>

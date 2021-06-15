@@ -7,7 +7,6 @@
 <!--<![endif]-->
 
 
-<!-- Mirrored from html.modernwebtemplates.com/dotcreative/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 21 May 2021 04:15:18 GMT -->
 <head>
 	<title>About Us</title>
 	<meta charset="utf-8">
@@ -474,7 +473,4 @@
 	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
 
 </body>
-
-
-<!-- Mirrored from html.modernwebtemplates.com/dotcreative/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 21 May 2021 04:15:21 GMT -->
 </html>

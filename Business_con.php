@@ -6,8 +6,6 @@
 <html class="no-js">
 <!--<![endif]-->
 
-
-<!-- Mirrored from html.modernwebtemplates.com/dotcreative/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 21 May 2021 04:15:18 GMT -->
 <head>
 	<title>Web Development</title>
 	<meta charset="utf-8">
@@ -395,7 +393,4 @@
 	<!-- <script src="js/switcher.js"></script> -->
 
 </body>
-
-
-<!-- Mirrored from html.modernwebtemplates.com/dotcreative/service-single3.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 21 May 2021 04:15:42 GMT -->
 </html>

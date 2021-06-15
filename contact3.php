@@ -5,9 +5,6 @@
 <!--[if gt IE 8]><!-->
 <html class="no-js">
 <!--<![endif]-->
-
-
-<!-- Mirrored from html.modernwebtemplates.com/dotcreative/contact3.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 21 May 2021 04:17:26 GMT -->
 <head>
 	<title>Contact Us</title>
 	<meta charset="utf-8">
@@ -883,10 +880,8 @@
 	<!-- <script src="js/switcher.js"></script> -->
 
 	<!-- Google Map Script -->
-	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+	<!-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script> -->
 
 </body>
 
-
-<!-- Mirrored from html.modernwebtemplates.com/dotcreative/contact3.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 21 May 2021 04:17:28 GMT -->
 </html>

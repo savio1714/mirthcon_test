@@ -7,7 +7,7 @@
 <!--<![endif]-->
 
 
-<!-- Mirrored from html.modernwebtemplates.com/dotcreative/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 21 May 2021 04:12:29 GMT -->
+
 <head>
 	<title>Mirthcon</title>
 	<meta charset="utf-8">
@@ -118,7 +118,7 @@
 													</h3>
 												</div> -->
 												<div class="intro_layer page-bottom" data-animation="expandUp">
-													<a class="btn btn-maincolor" href="about.html">Get Started</a>
+													<a class="btn btn-maincolor" href="about.php">Get Started</a>
 												</div>
 											</div>
 											<!-- eof .intro_layers -->
@@ -153,7 +153,7 @@
 													<p class="text-uppercase intro_after_featured_word">Solutions</p>
 												</div>
 												<div class="intro_layer page-bottom" data-animation="expandUp">
-													<a class="btn btn-maincolor" href="about.html">Get Started</a>
+													<a class="btn btn-maincolor" href="about.php">Get Started</a>
 												</div>
 											</div>
 											<!-- eof .intro_layers -->
@@ -190,7 +190,7 @@
 												</div>
 
 												<div class="intro_layer page-bottom" data-animation="expandUp">
-													<a class="btn btn-maincolor" href="about.html">Get Started</a>
+													<a class="btn btn-maincolor" href="about.php">Get Started</a>
 													<a class="btn btn-outline-maincolor" href="#">our folio</a>
 												</div>
 											</div>
@@ -1032,7 +1032,4 @@
 	<!-- <script src="js/switcher.js"></script> -->
 
 </body>
-
-
-<!-- Mirrored from html.modernwebtemplates.com/dotcreative/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 21 May 2021 04:14:11 GMT -->
 </html>
