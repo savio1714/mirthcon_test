@@ -12520,7 +12520,8 @@ a img.aligncenter {
 	top: 50%;
 	visibility: visible;
 	width: 60px;
-	z-index: 1002
+	z-index: 1002;
+	
 }
 
 .page_header_wrapper .toggle_menu {
