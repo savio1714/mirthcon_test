@@ -9,7 +9,7 @@
 
 
 <head>
-	<title>Mirthcon</title>
+	<title>Mirthcon Technologies Pvt. Ltd</title>
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -118,7 +118,7 @@
 													</h3>
 												</div> -->
 												<div class="intro_layer page-bottom" data-animation="expandUp">
-													<a class="btn btn-maincolor" href="about.php">Get Started</a>
+													<a class="btn btn-maincolor" href="about">Get Started</a>
 												</div>
 											</div>
 											<!-- eof .intro_layers -->
@@ -153,7 +153,7 @@
 													<p class="text-uppercase intro_after_featured_word">Solutions</p>
 												</div>
 												<div class="intro_layer page-bottom" data-animation="expandUp">
-													<a class="btn btn-maincolor" href="about.php">Get Started</a>
+													<a class="btn btn-maincolor" href="about">Get Started</a>
 												</div>
 											</div>
 											<!-- eof .intro_layers -->
@@ -190,8 +190,8 @@
 												</div>
 
 												<div class="intro_layer page-bottom" data-animation="expandUp">
-													<a class="btn btn-maincolor" href="about.php">Get Started</a>
-													<a class="btn btn-outline-maincolor" href="#">our folio</a>
+													<a class="btn btn-maincolor" href="about">Get Started</a>
+													<!-- <a class="btn btn-outline-maincolor" href="#">our folio</a> -->
 												</div>
 											</div>
 											<!-- eof .intro_layers -->
@@ -236,7 +236,7 @@
 								</div>
 								<div>
 									<div class="divider-40"></div>
-									<button type="button" class="btn btn-outline-maincolor">Get Started</button>
+									<button type="button" class="btn btn-outline-maincolor"  id="getStartedWeb">Get Started</button>
 									<div class="divider-40"></div>
 								</div>
 								<div class="img-wrap text-center">
@@ -261,7 +261,7 @@
 								</div>
 								<div class="item-content">
 									<h6>
-										<a href="service-single1.html">UI Design</a>
+										<a href="#">UI Design</a>
 									</h6>
 
 									<p>
@@ -279,7 +279,7 @@
 								</div>
 								<div class="item-content">
 									<h6>
-										<a href="service-single1.html">Web Development</a>
+										<a href="#">Web Development</a>
 									</h6>
 
 									<p>
@@ -297,7 +297,7 @@
 								</div>
 								<div class="item-content">
 									<h6>
-										<a href="service-single1.html">Business Consultancy</a>
+										<a href="#">Business Consultancy</a>
 									</h6>
 
 									<p>
@@ -691,56 +691,19 @@
 							<div class="col-12 col-lg-4">
 								<div class="stage book-1 ls">
 									<img src="images/1.jpg" alt="#">
-									<div class="info">
-										<header>
-											<h6>
-												<a href="#">Business Consultancy
-													<!-- <br>2017-2018</a> -->
-											</h6>
-										</header>
-										<p>
-											At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
-										</p>
-										<!-- <p class="small-text link-a">
-											<a href="#">Buy It Now!</a>
-										</p> -->
-									</div>
+									
 								</div>
 							</div>
 							<div class="col-12 col-lg-4">
 								<div class="stage book-2 ds">
 									<img src="images/2.jpg" alt="#">
-									<div class="info">
-										<header>
-											<h6>
-												<a href="#">Modern Marketing</a>
-											</h6>
-										</header>
-										<p>
-											Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam numy eirmod.
-										</p>
-										<!-- <p class="small-text link-a">
-											<a href="#">Buy It Now!</a>
-										</p> -->
-									</div>
+									
 								</div>
 							</div>
 							<div class="col-12 col-lg-4">
 								<div class="stage book-3 ls">
 									<img src="images/3.jpg" alt="#">
-									<div class="info">
-										<header>
-											<h6>
-												<a href="#">Business To Business</a>
-											</h6>
-										</header>
-										<p>
-											Et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
-										</p>
-										<!-- <p class="small-text link-a">
-											<a href="#">Buy It Now!</a>
-										</p> -->
-									</div>
+									
 								</div>
 							</div>
 						</div>
@@ -943,7 +906,7 @@
 							<img src="img/vertical_line.png" alt="">
 							<div>
 								<div class="divider-40"></div>
-								<a href="#" class="btn btn-outline-maincolor">Let’s Talk!</a>
+								<a href="contact" class="btn btn-outline-maincolor">Let’s Talk!</a>
 								<div class="divider-30"></div>
 							</div>
 							<div class="img-wrap overflow-visible">
@@ -974,9 +937,9 @@
 								Call Us
 							</h6>
 							<p>
-								<strong>New Accounts:</strong> 1-800-123-4567
+								<strong>Contact:</strong> 0832-2438500
 								<br>
-								<strong>Support:</strong> 1-800-123-4569
+								<!-- <strong>Support:</strong> 1-800-123-4569 -->
 							</p>
 						</div>
 						<div class="col-lg-4 text-center">
@@ -989,9 +952,9 @@
 								Write Us
 							</h6>
 							<p>
-								<a href="https://html.modernwebtemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0e6b766f637e626b4e6b766f637e626b206d6163">[email&#160;protected]</a>
-								<br> <a href="https://html.modernwebtemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4a2f322b273a262f0a2f322b273a262f64292527">[email&#160;protected]</a>
-							</p>
+								<a href="https://html.modernwebtemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0e6b766f637e626b4e6b766f637e626b206d6163">support@bizzmirth.com</a>
+								<br> <!-- <a href="https://html.modernwebtemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4a2f322b273a262f0a2f322b273a262f64292527">support@bizzmirth.com</a>
+ -->							</p>
 						</div>
 						<div class="col-lg-4 text-center">
 							<div class="border-icon">
@@ -1033,3 +996,10 @@
 
 </body>
 </html>
+<script type="text/javascript">
+	$('#getStartedWeb').click(function(e){
+		e.preventDefault();
+		location.href="web_development";
+
+	})
+</script>

@@ -5,14 +5,14 @@
 						<div class="row">
 							<div class="divider-20 d-none d-xl-block"></div>
 							<div class="col-md-12 mt-4 text-center animate" data-animation="fadeInUp"> <br>
-								<img class="margin-negative" src="images/logoo.png" alt="" width="100px" height="100px">
-								<div class="widget widget_social_buttons">
+								<img class="margin-negative" src="images/logoo.png" alt="" width="120px" height="120px">
+								<!-- <div class="widget widget_social_buttons">
 									<a href="#" class="fa fa-facebook color-icon" title="facebook"></a>
 									<a href="#" class="fa fa-twitter color-icon" title="twitter"></a>
 									<a href="#" class="fa fa-google color-icon" title="google"></a>
 									<a href="#" class="fa fa-youtube-play color-icon" title="youtube-play"></a>
 									<a href="#" class="fa fa-linkedin color-icon" title="linkedin"></a>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>

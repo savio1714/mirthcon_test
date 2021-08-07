@@ -115,9 +115,10 @@
 						<div class="col-md-8 offset-md-2">
 							<div class="main-content text-center">
 								<h5>
-									"We design and develop services for customers of all sizes, 
-										specializing in creating stylish, 
-										modern websites, web services and online stores."
+									Mirthcon Technologies is an IT company specialising in the field of website designing & development along with offering the business solutions to clients primarily in Goa and across the globe. Our qualified team is all set to empower a strong authoritative web identity of your brand. <br>
+We believe that every individual business is unique and so does their requirements. We invest enough time in understanding your business needs and formulate a marketing strategy that will fulfil your company’s business objective. <br>
+Present your ideas, and our professionals will implement it to increase your brand’s online profile.
+
 								</h5>
 								<i class="rt-icon2-user"></i>
 							<!-- 	<p>
@@ -149,7 +150,7 @@
 							</h6>
 							<div class="icon-content">
 								<p>
-									We are a team of San Diego web design and development professionals who love partnering with good people and businesses to help them achieve online success.
+									Marketplace is started with the mission of assisting entrepreneurs in starting, managing, and growing their businesses by providing them with a variety of services.
 								</p>
 							</div>
 						</div>

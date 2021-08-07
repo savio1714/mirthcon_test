@@ -117,16 +117,26 @@
 					<div class="row">
 						<div class="col-lg-6 service-single to_animate animate" data-animation="fadeInRight">
 							<h6 class="fs-20">
-								At vero eos et accusam et justo duo dolores rebum stet clita kasd gubergren.
-							</h6>
+								Get a customized website design with a distinct look that reflects your organization’s goals and describes your products and services </h6>
 							<p>
-								Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-								tempor.
+								Development Process we follow: -
 							</p>
-							<p>
-								Aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-								tempor invidunt ut labore et dolore magna aliquyam.
-							</p>
+							<p><ol>
+							 		<li>Requirement Gathering</li>
+									<li>Design</li>
+									<li>Development</li>
+									<li>Testing / Quality Assurance</li>
+									<li>Deployment</li>
+									<li>Support and Maintenance</li>
+									
+							  
+							</ol> 
+						Industries we serve: -
+Real Estate, Tours and Travels, Education, Transport, Healthcare, Finance, Restaurant, Ecommerce
+</p> 
+							<!-- <p>
+								Aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
+							</p> -->
 						</div>
 						<div class="col-lg-6 to_animate fw-column animate" data-animation="fadeInLeft">
 							<img src="images/service/img_4.jpg" alt="">
@@ -172,7 +182,7 @@
 									<a href="#">UI/UX Design</a>
 								</h6>
 								<p>
-									We use strategic marketing tactics that have been proven to work. Social networks, PPC campaigns. We can do it all for Your company!
+								Well-crafted UI/UX design services provide a user experience that will translate into increased usability and long-term customer loyalty.
 								</p>
 								<!-- <a href="service-single1.html" class="btn-link">Read more</a> -->
 							</div>
@@ -204,7 +214,7 @@
 									<a href="#">Business Consultancy</a>
 								</h6>
 								<p>
-									Powerful web design that will out-perform your strongest competitors. Let us help you with that. Get a free Quote. Lorem ipsum dolor sit amet, consetetur.
+									We also offer ecommerce websites where we design, develop and promote their business.
 								</p>
 								<!-- <a href="service-single1.html" class="btn-link">Read more</a> -->
 							</div>
@@ -220,7 +230,7 @@
 									<a href="#">Digital Marketing</a>
 								</h6>
 								<p>
-									Optimizing our web designs to rank on the first page of google is our specialty. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
+									we provide marketing services to create a significant online identity for your website through our excellent branding and digital marketing services
 								</p>
 								<!-- <a href="service-single1.html" class="btn-link">Read more</a> -->
 							</div>

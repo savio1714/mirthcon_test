@@ -64,7 +64,7 @@ h4 {
 }
 
 h5 {
-	font-size: 30px
+	font-size: 20px
 }
 
 h6 {
@@ -3268,10 +3268,11 @@ div.row.c-gutter-80 {
 .c-gutter-60 .row,
 div.row.c-gutter-60 {
 	margin-left: -30px;
-	margin-right: -30px
+	margin-right: -30px;
+
 }
 
-.c-gutter-50 .row,
+.c-gutter-50 .\,
 div.row.c-gutter-50 {
 	margin-left: -25px;
 	margin-right: -25px
@@ -12565,7 +12566,7 @@ a img.aligncenter {
 .toggle_menu span,
 .toggle_menu span:before,
 .toggle_menu span:after {
-	background-color: #fff;
+	background-color: #b00b11;
 	content: "";
 	display: block;
 	height: 2px;
@@ -12581,7 +12582,7 @@ a img.aligncenter {
 
 .toggle_menu:before,
 .toggle_menu span {
-	color: #fff;
+	color: #b00b11;
 	content: "menu";
 	font-size: 9px;
 	font-weight: 800;
@@ -22184,7 +22185,21 @@ h5 {
 	z-index: 20;
 	height: 40px;
 	color:#999;
+
 	border-radius: 5px 10px 10 px 5px;
 	font-weight: 300;
 
+}
+
+.busi{
+	width: 50%;
+	margin:  70px auto 130px auto;
+	text-align: left;
+	line-height: 2;
+}
+
+.web{
+	width: 25%;
+	float:  right;
+	margin-left: 30px;
 }

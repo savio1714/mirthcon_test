@@ -47,7 +47,7 @@
 			<span aria-hidden="true">&times;</span>
 		</button>
 		<div class="widget widget_search">
-			<form method="get" class="searchform search-form" action="https://html.modernwebtemplates.com/">
+			<form method="get" class="searchform search-form" action="#">
 				<div class="form-group">
 					<input type="text" value="" name="search" class="form-control" placeholder="Search keyword" id="modal-search-input">
 				</div>
@@ -706,9 +706,9 @@
 								Call Us
 							</h6>
 							<p class="teaser-content">
-								<strong>New Accounts:</strong> +9180807 85714
+								<strong>Contact:</strong> +9180807 85714
 								<br>
-								<strong>Support:</strong> 1-800-123-4569
+								<strong>Support:</strong>  0832-2438500
 							</p>
 						</div>
 						<div class="col-md-4 text-center write-icon">
@@ -721,8 +721,8 @@
 								Write Us
 							</h6>
 							<p class="teaser-content">
-								<a href="https://html.modernwebtemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3c59445d514c50597c59445d514c5059125f5351">[email&#160;protected]</a>
-								<br> <a href="https://html.modernwebtemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c1a4b9a0acb1ada481a4b9a0acb1ada4efa2aeac">[email&#160;protected]</a>
+								<a href="https://html.modernwebtemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3c59445d514c50597c59445d514c5059125f5351">support@bizzmirth.com</a>
+								<br><!--  <a href="https://html.modernwebtemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c1a4b9a0acb1ada481a4b9a0acb1ada4efa2aeac">[email&#160;protected]</a> -->
 							</p>
 						</div>
 						<div class="col-md-4 text-center visit-icon">

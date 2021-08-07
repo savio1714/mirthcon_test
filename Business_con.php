@@ -24,6 +24,19 @@
 	<link rel="stylesheet" href="css/font-awesome.css">
 	<link rel="stylesheet" href="css/main.css" class="color-switcher-link">
 	<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+	<style type="text/css">
+		.skill-row{
+  /*width: 50%;*/
+  margin: 70px auto 130px auto;
+  text-align: left;
+  line-height: 2;
+}
+.computer{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+	</style>
 
 	<!--[if lt IE 9]>
 		<script src="js/vendor/html5shiv.min.js"></script>
@@ -109,6 +122,11 @@
 		<!-- eof #box_wrapper -->
 	</div>
 
+<div class="skill-row">
+      <img class="computer" src="computer.png" alt="computer">
+      <h3>Design & Development</h3>
+      <p>I started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own website</p>
+    </div>
 
 
 
@@ -118,23 +136,26 @@
 					<div class="row">
 						<div class="col-lg-6 service-single to_animate animate" data-animation="fadeInRight">
 							<h6 class="fs-20">
-								At vero eos et accusam et justo duo dolores rebum stet clita kasd gubergren.
+								Business Consultancy ( Marketplace)
 							</h6>
-							<p>
-								Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-								tempor.
-							</p>
-							<p>
-								Aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-								tempor invidunt ut labore et dolore magna aliquyam.
-							</p>
+							<ul>
+							<li> We have a team of well experienced and motivated professionals. We not only provide our clients with business solutions under one roof but also regularly and timely upgrade their knowledge. We believe to stay ahead in the changing economy to provide our clients with the most consistent and prompt quality services such as outsource accounting services, payroll processing, tax consultancy and other accounting services. </li>
+
+<li> Hiring a consultant can assist organizations in improving their performance and making the required changes in order to attain success. Business consultants assist organisations in overcoming obstacles, increasing income and expanding.
+The exploration phase is the first step for any business consultant and the purpose is to learn about the client’s business. A good business consultant spends time interviewing the owner and staff to understand as much as possible about the company. Touring the facilities, interacting with the board of directors and staff, examining the finances and reading all company documentation are all examples of this. </li>
+
+<li>After the business consultant has gained a thorough grasp of the organization, they move on to the evaluation phase, which aims to determine where changes are required. Identifying the company’s strengths and limitations is a part of this phase. These difficulties can include issues that the company’s owners and management have already identified, as well as new difficulties that the business consultant identifies as a result of their neutrality. A business consultant should also look for ways to expand the company, raise earnings and improve efficiency.</li>
+
+<li>A business consultant should develop answers to problems. Perhaps a company’s sales department is extremely strong, but its marketing department is lacking. This is a chance for the corporation to expand its marketing resources. It’s important for the consultant and the company’s employees to maintain open and clear communications.</li>
+</ul>
+							
 						</div>
 						<div class="col-lg-6 to_animate fw-column animate" data-animation="fadeInLeft">
 							<img src="images/bc.jpg" alt="">
 						</div>
-						<div class="col-lg-12 to_animate fw-column animate" data-animation="fadeInUp">
+						<!-- <div class="col-lg-12 to_animate fw-column animate" data-animation="fadeInUp">
 							<div class="shortcodes">
-								<!-- <p>
+								<p>
 									Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna. Aliquyam erat, sed diam voluptua. At vero eos
 									et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 								</p>
@@ -148,9 +169,9 @@
 									Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
 									sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et
 									ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur.
-								</p> -->
+								</p>
 							</div>
-						</div>
+						</div> -->
 					</div>
 					<div class="divider-10 d-none d-lg-block"></div>
 				</div>
@@ -173,7 +194,7 @@
 									<a href="#">Staffing</a>
 								</h6>
 								<p>
-									We use strategic marketing tactics that have been proven to work. Social networks, PPC campaigns. We can do it all for Your company!
+									Hiring the right candidate at the right time is crucial to the success of any business. At Mirthcon, employers and recruiters are intelligently connected in order to fill vacancies faster, more efficiently. 
 								</p>
 								<!-- <a href="service-single1.html" class="btn-link">Read more</a> -->
 							</div>
