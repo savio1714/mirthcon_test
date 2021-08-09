@@ -70,31 +70,10 @@
 		</div>
 	</div>
 
-	<!-- Unyson messages modal -->
-	<div class="modal fade" tabindex="-1" role="dialog" id="messages_modal">
-		<div class="fw-messages-wrap ls p-normal">
-			<!-- Uncomment this UL with LI to show messages in modal popup to your user: -->
-			<!--
-		<ul class="list-unstyled">
-			<li>Message To User</li>
-		</ul>
-		-->
-
-		</div>
-	</div>
-	<!-- eof .modal -->
-
-	<!-- wrappers for visual page editor and boxed version of template -->
 	<div id="canvas">
 		<div id="box_wrapper">
 
-			<!-- template sections -->
-
-
-			<!-- header with three Bootstrap columns - left for logo, center for navigation and right for includes-->
-			
-			<!--  php include 'header2.php'; -->
-			  <?php include 'header2.php';?>
+		  <?php include 'header2.php';?>
 
 
 			<section class="page_title ls s-py-50 corner-title ls invise overflow-visible">
@@ -102,17 +81,7 @@
 					<div class="row">
 						<div class="col-md-12 text-center">
 							<h1>Business Consultancy</h1>
-							<!-- <ol class="breadcrumb">
-								<li class="breadcrumb-item">
-									<a href="index-2.html">Home</a>
-								</li>
-								<li class="breadcrumb-item">
-									<a href="#">Pages</a>
-								</li>
-								<li class="breadcrumb-item active">
-									About
-								</li>
-							</ol> -->
+							
 							<div class="divider-15 d-none d-xl-block"></div>
 						</div>
 					</div>
@@ -121,14 +90,34 @@
 </div>
 		<!-- eof #box_wrapper -->
 	</div>
+			<!-- <section class="ls s-pt-30 s-pt-md-50 s-pb-md-10 s-py-lg-50 c-gutter-60 c-mb-30 c-mb-md-50 overflow-visible">
+				<div class="divider-65 d-none d-lg-block"></div>
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12 service-single to_animate animate" data-animation="fadeInRight">
+							<h6 class="fs-20">
+								Business Consultancy ( Marketplace)
+							</h6>
+							<div class="col-lg-6 to_animate fw-column animate" data-animation="fadeInLeft">
+							<img src="images/bc.jpg" alt="">
+						</div>
+							<ul>
+							<li> We have a team of well experienced and motivated professionals. We not only provide our clients with business solutions under one roof but also regularly and timely upgrade their knowledge. We believe to stay ahead in the changing economy to provide our clients with the most consistent and prompt quality services such as outsource accounting services, payroll processing, tax consultancy and other accounting services. </li>
 
-<div class="skill-row">
-      <img class="computer" src="computer.png" alt="computer">
-      <h3>Design & Development</h3>
-      <p>I started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own websiteI started learning to code when i was 15 years old because i wanted to make my own website</p>
-    </div>
+								<li> Hiring a consultant can assist organizations in improving their performance and making the required changes in order to attain success. Business consultants assist organisations in overcoming obstacles, increasing income and expanding.
+								The exploration phase is the first step for any business consultant and the purpose is to learn about the client’s business. A good business consultant spends time interviewing the owner and staff to understand as much as possible about the company. Touring the facilities, interacting with the board of directors and staff, examining the finances and reading all company documentation are all examples of this. </li>
 
+								<li>After the business consultant has gained a thorough grasp of the organization, they move on to the evaluation phase, which aims to determine where changes are required. Identifying the company’s strengths and limitations is a part of this phase. These difficulties can include issues that the company’s owners and management have already identified, as well as new difficulties that the business consultant identifies as a result of their neutrality. A business consultant should also look for ways to expand the company, raise earnings and improve efficiency.</li>
 
+								<li>A business consultant should develop answers to problems. Perhaps a company’s sales department is extremely strong, but its marketing department is lacking. This is a chance for the corporation to expand its marketing resources. It’s important for the consultant and the company’s employees to maintain open and clear communications.</li>
+								</ul>
+							
+						</div>
+					
+					</div>
+					<div class="divider-10 d-none d-lg-block"></div>
+				</div>
+			</section> -->
 
 			<section class="ls s-pt-30 s-pt-md-50 s-pb-md-10 s-py-lg-50 c-gutter-60 c-mb-30 c-mb-md-50 overflow-visible">
 				<div class="divider-65 d-none d-lg-block"></div>
@@ -136,42 +125,20 @@
 					<div class="row">
 						<div class="col-lg-6 service-single to_animate animate" data-animation="fadeInRight">
 							<h6 class="fs-20">
-								Business Consultancy ( Marketplace)
-							</h6>
-							<ul>
-							<li> We have a team of well experienced and motivated professionals. We not only provide our clients with business solutions under one roof but also regularly and timely upgrade their knowledge. We believe to stay ahead in the changing economy to provide our clients with the most consistent and prompt quality services such as outsource accounting services, payroll processing, tax consultancy and other accounting services. </li>
-
-<li> Hiring a consultant can assist organizations in improving their performance and making the required changes in order to attain success. Business consultants assist organisations in overcoming obstacles, increasing income and expanding.
-The exploration phase is the first step for any business consultant and the purpose is to learn about the client’s business. A good business consultant spends time interviewing the owner and staff to understand as much as possible about the company. Touring the facilities, interacting with the board of directors and staff, examining the finances and reading all company documentation are all examples of this. </li>
-
-<li>After the business consultant has gained a thorough grasp of the organization, they move on to the evaluation phase, which aims to determine where changes are required. Identifying the company’s strengths and limitations is a part of this phase. These difficulties can include issues that the company’s owners and management have already identified, as well as new difficulties that the business consultant identifies as a result of their neutrality. A business consultant should also look for ways to expand the company, raise earnings and improve efficiency.</li>
-
-<li>A business consultant should develop answers to problems. Perhaps a company’s sales department is extremely strong, but its marketing department is lacking. This is a chance for the corporation to expand its marketing resources. It’s important for the consultant and the company’s employees to maintain open and clear communications.</li>
-</ul>
+								Business Consultancy Marketplace </h6>
 							
+							<p>
+							 	We have a team of well experienced and motivated professionals. We not only provide our clients with business solutions under one roof but also regularly and timely upgrade their knowledge. We believe to stay ahead in the changing economy to provide our clients with the most consistent and prompt quality services such as outsource accounting services, payroll processing, tax consultancy and other accounting services.<br>
+
+							 	Hiring a consultant can assist organizations in improving their performance and making the required changes in order to attain success. Business consultants assist organisations in overcoming obstacles, increasing income and expanding.
+									
+
+					</p>
 						</div>
 						<div class="col-lg-6 to_animate fw-column animate" data-animation="fadeInLeft">
 							<img src="images/bc.jpg" alt="">
 						</div>
-						<!-- <div class="col-lg-12 to_animate fw-column animate" data-animation="fadeInUp">
-							<div class="shortcodes">
-								<p>
-									Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna. Aliquyam erat, sed diam voluptua. At vero eos
-									et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-								</p>
-
-								<ul class="list1">
-									<li>It can answer common questions</li>
-									<li>It can demonstrate how a product or service works</li>
-									<li>It can discuss current trends</li>
-								</ul>
-								<p>
-									Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
-									sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et
-									ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur.
-								</p>
-							</div>
-						</div> -->
+						
 					</div>
 					<div class="divider-10 d-none d-lg-block"></div>
 				</div>
@@ -226,7 +193,7 @@ The exploration phase is the first step for any business consultant and the purp
 									<a href="#">Marketing</a>
 								</h6>
 								<p>
-									Powerful web design that will out-perform your strongest competitors. Let us help you with that. Get a free Quote. Lorem ipsum dolor sit amet, consetetur.
+									Powerful web design that will out-perform your strongest competitors. Let us help you with that.
 								</p>
 								<!-- <a href="service-single1.html" class="btn-link">Read more</a> -->
 							</div>

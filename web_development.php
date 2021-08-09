@@ -132,34 +132,14 @@
 							  
 							</ol> 
 						Industries we serve: -
-Real Estate, Tours and Travels, Education, Transport, Healthcare, Finance, Restaurant, Ecommerce
-</p> 
-							<!-- <p>
-								Aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
-							</p> -->
+							Real Estate, Tours and Travels, Education, Transport, Healthcare, Finance, Restaurant, Ecommerce
+								</p> 
+							
 						</div>
 						<div class="col-lg-6 to_animate fw-column animate" data-animation="fadeInLeft">
 							<img src="images/service/img_4.jpg" alt="">
 						</div>
-						<div class="col-lg-12 to_animate fw-column animate" data-animation="fadeInUp">
-							<div class="shortcodes">
-								<!-- <p>
-									Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna. Aliquyam erat, sed diam voluptua. At vero eos
-									et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-								</p>
-
-								<ul class="list1">
-									<li>It can answer common questions</li>
-									<li>It can demonstrate how a product or service works</li>
-									<li>It can discuss current trends</li>
-								</ul>
-								<p>
-									Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
-									sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et
-									ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur.
-								</p> -->
-							</div>
-						</div>
+						
 					</div>
 					<div class="divider-10 d-none d-lg-block"></div>
 				</div>
@@ -230,7 +210,7 @@ Real Estate, Tours and Travels, Education, Transport, Healthcare, Finance, Resta
 									<a href="#">Digital Marketing</a>
 								</h6>
 								<p>
-									we provide marketing services to create a significant online identity for your website through our excellent branding and digital marketing services
+									Through our exceptional branding and digital marketing services, we provide marketing services to help your website establish a major online identity.
 								</p>
 								<!-- <a href="service-single1.html" class="btn-link">Read more</a> -->
 							</div>
@@ -261,7 +241,7 @@ Real Estate, Tours and Travels, Education, Transport, Healthcare, Finance, Resta
 									<a href="#">CMS</a>
 								</h6>
 								<p>
-									A solid brand strategy, logo and guidelines help you to get You recognized. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
+									A solid brand strategy, logo and guidelines help you to get You recognized. 
 								</p>
 								<!-- <a href="service-single1.html" class="btn-link">Read more</a> -->
 							</div>

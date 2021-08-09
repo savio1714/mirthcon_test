@@ -224,7 +224,7 @@
 									<div class="divider-35"></div>
 								</div>
 								<h5>
-									We are the one of the most effective Web Design Companies
+									We offer bespoke Web Design and Development to businesses of all sizes.
 								</h5>
 								<p>
 									Getting online is easy. Succeeding online is a different story. You’ll need more than just a beautiful website to stand out these days.
@@ -301,7 +301,7 @@
 									</h6>
 
 									<p>
-										Pork chop pork belly hamburger prosciutto, fatback andouille flank.
+										 We provide our clients with business solutions under one roof but also regularly and timely upgrade their knowledge.
 									</p>
 								</div>
 							</div>
@@ -451,211 +451,11 @@
 						<img src="img/vertical_line2.png" alt="">
 					</div>
 					<div class=" white-button text-center">
-						<a class="btn white-btn" href="#">Get Started</a>
+						<a class="btn white-btn" href="web_development">Get Started</a>
 					</div>
 					<div class="divider-30 d-none d-xl-block"></div>
 				</div>
 			</section>
-
-			<!-- <section class="s-pt-75 s-pt-xl-50 gallery-carousel main-gallery container-px-0" id="gallery">
-				<div class="container-fluid">
-					<div class="img-wrap text-center">
-						<img src="img/vertical_line.png" alt="">
-						<div class="divider-40 d-block d-sm-none"></div>
-					</div>
-					<div class="row">
-						<div class="col-lg-12">
-							<div class="row justify-content-center">
-								<div class="col-md-10 col-xl-5">
-									<div class="filters gallery-filters small-text text-lg-right">
-										<a href="#" data-filter="*" class="active selected">All</a>
-										<a href="#" data-filter=".web-design">Web Design</a>
-										<a href="#" data-filter=".logo-design">Logo Design</a>
-										<a href="#" data-filter=".advertisement">Advertisement</a>
-										<a href="#" data-filter=".branding">Branding</a>
-										<a href="#" data-filter=".design">Design</a>
-										<a href="#" data-filter=".photo">Photo</a>
-									</div>
-								</div>
-							</div>
-							<div class="owl-carousel gallery-owl-nav" data-autoplay="false" data-responsive-lg="5" data-responsive-md="3" data-responsive-sm="3" data-responsive-xs="2" data-nav="true" data-dots="false" data-filters=".gallery-filters" data-margin="0" data-loop="true">
-								<div class="vertical-item item-gallery content-absolute text-center ds web-design">
-									<div class="item-media">
-										<img src="images/gallery/gallery-1.jpg" alt="">
-										<div class="media-links">
-
-										</div>
-									</div>
-									<div class="item-content">
-										<h6>
-											<a class="small-text" href="gallery-regular.html">web-design</a>
-										</h6>
-										<h6>
-											<a href="gallery-regular.html">Clothes Badge Design</a>
-										</h6>
-									</div>
-								</div>
-								<div class="vertical-item item-gallery content-absolute text-center ds logo-design">
-									<div class="item-media">
-										<img src="images/gallery/gallery-2.jpg" alt="">
-										<div class="media-links">
-
-										</div>
-									</div>
-									<div class="item-content">
-										<h6>
-											<a class="small-text" href="gallery-regular.html">logo-design</a>
-										</h6>
-										<h6>
-											<a href="gallery-regular.html">Clothes Badge Design</a>
-										</h6>
-									</div>
-								</div>
-								<div class="vertical-item item-gallery content-absolute text-center ds advertisement">
-									<div class="item-media">
-										<img src="images/gallery/gallery-3.jpg" alt="">
-										<div class="media-links">
-
-										</div>
-									</div>
-									<div class="item-content">
-										<h6>
-											<a class="small-text" href="gallery-regular.html">advertisement</a>
-										</h6>
-										<h6>
-											<a href="gallery-regular.html">Clothes Badge Design</a>
-										</h6>
-									</div>
-								</div>
-								<div class="vertical-item item-gallery content-absolute text-center ds branding">
-									<div class="item-media">
-										<img src="images/gallery/gallery-4.jpg" alt="">
-										<div class="media-links">
-
-										</div>
-									</div>
-									<div class="item-content">
-										<h6>
-											<a class="small-text" href="gallery-regular.html">branding</a>
-										</h6>
-										<h6>
-											<a href="gallery-regular.html">Clothes Badge Design</a>
-										</h6>
-									</div>
-								</div>
-								<div class="vertical-item item-gallery content-absolute text-center ds design">
-									<div class="item-media">
-										<img src="images/gallery/gallery-5.jpg" alt="">
-										<div class="media-links">
-
-										</div>
-									</div>
-									<div class="item-content">
-										<h6>
-											<a class="small-text" href="gallery-regular.html">design</a>
-										</h6>
-										<h6>
-											<a href="gallery-regular.html">Clothes Badge Design</a>
-										</h6>
-									</div>
-								</div>
-								<div class="vertical-item item-gallery content-absolute text-center ds photo">
-									<div class="item-media">
-										<img src="images/gallery/gallery-6.jpg" alt="">
-										<div class="media-links">
-
-										</div>
-									</div>
-									<div class="item-content">
-										<h6>
-											<a class="small-text" href="gallery-regular.html">photo</a>
-										</h6>
-										<h6>
-											<a href="gallery-regular.html">Clothes Badge Design</a>
-										</h6>
-									</div>
-								</div>
-							</div> -->
-							<!-- .owl-carousel-->
-						<!-- </div>
-					</div>
-				</div>
-			</section> -->
-
-			<!-- <section class="page_slider team_slider" id="team">
-				<div class="container-fluid">
-					<div class="row">
-						<div class="shortcode-team-slider main-team">
-							<h3 class="slider-title">Team</h3>
-							<div class="flexslider team-slider" data-nav="false" data-dots="true">
-								<ul class="slides">
-									<li class="ls">
-										<img src="images/team/team_slide_01.jpg" alt="">
-									</li>
-									<li class="ls">
-										<img src="images/team/team_slide_02.jpg" alt="">
-									</li>
-									<li class="ls">
-										<img src="images/team/team_slide_03.jpg" alt="">
-									</li>
-									<li class="ls">
-										<img src="images/team/team_slide_04.jpg" alt="">
-									</li>
-								</ul>
-							</div> -->
-							<!-- eof flexslider -->
-							<!-- <div class="flexslider-controls">
-								<ul class="flex-control-nav-1">
-									<li class="menu_item flex-active">
-										Gregory F. Parrino
-										<span class="position">CEO</span>
-										<span class="team-social-icons">
-											<span class="social-icons">
-												<a href="#" class="fa fa-facebook color-icon border-icon rounded-icon" title="facebook"></a>
-												<a href="#" class="fa fa-twitter color-icon border-icon rounded-icon" title="twitter"></a>
-												<a href="#" class="fa fa-google color-icon border-icon rounded-icon" title="google"></a>
-											</span>
-										</span>
-									</li>
-									<li class="menu_item">
-										Letha L. Young
-										<span class="position">Designer</span>
-										<span class="team-social-icons">
-											<span class="social-icons">
-												<a href="#" class="fa fa-facebook color-icon border-icon rounded-icon" title="facebook"></a>
-												<a href="#" class="fa fa-twitter color-icon border-icon rounded-icon" title="twitter"></a>
-												<a href="#" class="fa fa-google color-icon border-icon rounded-icon" title="google"></a>
-											</span>
-										</span>
-									</li>
-									<li class="menu_item">
-										Harold D. Cote
-										<span class="position">Developer</span>
-										<span class="team-social-icons">
-											<span class="social-icons">
-												<a href="#" class="fa fa-facebook color-icon border-icon rounded-icon" title="facebook"></a>
-												<a href="#" class="fa fa-twitter color-icon border-icon rounded-icon" title="twitter"></a>
-												<a href="#" class="fa fa-google color-icon border-icon rounded-icon" title="google"></a>
-											</span>
-										</span>
-									</li>
-									<li class="menu_item">
-										Oren R. Odom
-										<span class="position">Marketer</span>
-										<span class="team-social-icons">
-											<span class="social-icons">
-												<a href="#" class="fa fa-facebook color-icon border-icon rounded-icon" title="facebook"></a>
-												<a href="#" class="fa fa-twitter color-icon border-icon rounded-icon" title="twitter"></a>
-												<a href="#" class="fa fa-google color-icon border-icon rounded-icon" title="google"></a>
-											</span>
-										</span>
-									</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section> -->
 
 			<section class="ls ms book-item s-pb-30 s-pb-lg-25">
 				<div class="corner corner-light"></div>
@@ -663,9 +463,7 @@
 					<div class="row">
 						<div class="col-md-8 offset-md-2">
 							<div class="text-block text-center">
-								<!-- <div class="btn-book-section overflow-visible">
-									<a href="#" class="btn btn-maincolor">Get Started</a>
-								</div> -->
+								
 								<br>
 								<div class="img-wrap text-center">
 									<img src="img/vertical_line.png" alt="">
@@ -676,9 +474,7 @@
 									<!-- <br> Resources -->
 								</h5>
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-									sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
- 									Dolor magna eget est lorem. Etiam sit amet nisl purus in mollis nunc. Ac turpis egestas integer eget.
+									We have a team of well experienced and motivated professionals. We not only provide our clients with business solutions under one roof but also regularly and timely upgrade their knowledge. We believe to stay ahead in the changing economy to provide our clients with the most consistent and prompt quality services such as outsource accounting services, payroll processing, tax consultancy and other accounting services.
 								</p>
 								<div class="divider-30"></div>
 								<div class="img-wrap text-center">
@@ -713,7 +509,7 @@
 								<img src="img/vertical_line.png" alt="">
 							</div>
 							<div class="divider-40"></div>
-							<a href="#" class="btn btn-outline-maincolor">Get Started</a>
+							<a href="business_con" class="btn btn-outline-maincolor">Get Started</a>
 							<div class="divider-40"></div>
 							<div>
 								<img src="img/vertical_line.png" alt="">
@@ -724,174 +520,15 @@
 				</div>
 			</section>
 
-			<!-- <section class="ls ms blog-post-carousel">
-				<div class="container-fluid">
-					<div class="row">
-						<div class="col-12">
-							<div class="owl-carousel" data-responsive-lg="4" data-responsive-md="3" data-responsive-sm="2" data-responsive-xs="1" data-nav="false" data-dots="false" data-loop="true" data-margin="4">
-								<article class="box text-center">
-									<div class="item-content">
-										<p class="small-text">
-											<a href="#">December 29, 2017</a>
-										</p>
-										<h6>
-											<a href="#">Traffic control test by New York Cabs program</a>
-										</h6>
-										<div class="post-author">
-											<img src="images/small_author.png" alt="">
-											<p>
-												<a href="#">by Admin</a>
-											</p>
-										</div>
-									</div> -->
-									<!-- .item-content -->
-								<!-- </article> -->
-								<!-- #post-## -->
-								<!-- <article class="box text-center">
-									<div class="item-content ">
-										<p class="small-text">
-											<a href="#">December 26, 2017</a>
-										</p>
-										<h6>
-											<a href="#">Live support, key of an endless satisfaction</a>
-										</h6>
-										<div class="post-author">
-											<img src="images/small_author.png" alt="">
-											<p>
-												<a href="#">by Admin</a>
-											</p>
-										</div>
-									</div> -->
-									<!-- .item-content -->
-								<!-- </article> -->
-								<!-- #post-## -->
-								<!-- <article class="box text-center">
-									<div class="item-content ">
-										<p class="small-text">
-											<a href="#">December 21, 2017</a>
-										</p>
-										<h6>
-											<a href="#">Strong servers, customer friendly services</a>
-										</h6>
-										<div class="post-author">
-											<img src="images/small_author.png" alt="">
-											<p>
-												<a href="#">by Admin</a>
-											</p>
-										</div>
-									</div> -->
-									<!-- .item-content -->
-								<!-- </article> -->
-								<!-- #post-## -->
-								<!-- <article class="box text-center">
-									<div class="item-content ">
-										<p class="small-text">
-											<a href="#">December 15, 2017</a>
-										</p>
-										<h6>
-											<a href="#">Weekly meeting in companies Think Room</a>
-										</h6>
-										<div class="post-author">
-											<img src="images/small_author.png" alt="">
-											<p>
-												<a href="#">by Admin</a>
-											</p>
-										</div>
-									</div> -->
-									<!-- .item-content -->
-								<!-- </article> -->
-								<!-- #post-## -->
-							<!-- </div>
-						</div>
-					</div>
-				</div>
-			</section> -->
 
-			<section class="s-pt-130 s-pb-15 s-pb-md-50 s-pt-xl-100 s-pb-lg-30 overflow-visible s-parallax   ds" id="testimonials">
-				<!-- <section class="s-pt-130 s-pb-15 s-pb-md-50 s-pt-xl-100 s-pb-lg-30 overflow-visible s-parallax testimonials-sliders main-testimonials ds" id="testimonials"> -->
-				<!-- <div class="corner ls ms"></div>
-				<div class="container">
-					<div class="row c-mt-30 c-mt-md-0">
-						<div class="divider-20"></div>
-						<div class="text-center img-wrap line col-md-12">
-							<img src="img/vertical_line2.png" alt="">
-						</div>
-						<div class="divider-40 d-none d-md-block"></div>
-						<div class="col-md-12">
-							<div class="owl-carousel" data-autoplay="false" data-responsive-lg="1" data-responsive-md="1" data-responsive-sm="1" data-nav="false" data-dots="true" id="quote">
-								<div class="quote-item">
-									<div class="quote-image">
-										<img src="images/team/testimonials_02.jpg" alt="">
-									</div>
-									<p class="small-text author-job">
-										Eye Insurance
-									</p>
-									<h5>
-										<a href="#">George M. Baty</a>
-									</h5>
-									<p>
-										<em class="big">
-											I needed more leads for my services. Pay-per-click, banners of maybe even broschures. They made an analysis of my existing site. It occurred that my webdite is banned with Google, and I never knew about that!
-										</em>
-									</p>
-								</div>
-								<div class="quote-item">
-									<div class="quote-image">
-										<img src="images/team/testimonials_01.jpg" alt="">
-									</div>
-									<p class="small-text author-job">
-										Moving co
-									</p>
-									<h5>
-										<a href="#">Jeffrey P. McAllister</a>
-									</h5>
-									<p>
-										<em class="big">
-											I highly recommend this company for all and any of your design needs. I am very happy with the new redesigned and restructured website they built for my moving company!
-										</em>
-									</p>
-								</div>
-								<div class="quote-item">
-									<div class="quote-image">
-										<img src="images/team/testimonials_03.jpg" alt="">
-									</div>
-									<p class="small-text author-job">
-										Paradox Inc
-									</p>
-									<h5>
-										<a href="#">Josephine B. Anderson</a>
-									</h5>
-									<p>
-										<em class="big">
-											This guys are awesome! It is hard to find a web design company who can actually listen and understand what you need. I’m 100% satisfied with this guys. My website is exactly what I needed and even more...
-										</em>
-									</p>
-
-								</div>
-							</div>
-							
-						</div>
-						<div class="divider-55 d-none d-md-block"></div>
-						<div class="text-center img-wrap col-md-12">
-							<img src="img/vertical_line2.png" alt="">
-						</div>
-						<div class="divider-10 d-none d-md-block"></div>
-					</div>
-				</div> -->
-				<div class="testimonials-btn text-center">
-					<a href="#" class="btn-maincolor">
-						<i class="fa fa-angle-up"></i>
-					</a>
-				</div>
-				<div class="corner corner-light"></div>
-			</section>
+		
 
 			<section class="s-pt-130 s-pt-md-50 ls text-section">
 				<div class="divider-30"></div>
 				<div class="container">
 					<div class="row">
 						<div class="text-center col-md-12 justify-content-center text-block">
-							<img src="img/vertical_line.png" alt="">
+							<!-- <img src="img/vertical_line.png" alt=""> -->
 							<div class="divider-35"></div>
 							<div class="content">
 								<h1>
@@ -899,7 +536,7 @@
 									<br> Your Project
 								</h1>
 								<p>
-									We’ll help to achieve your goals and to grow business
+									Have a project in mind? Lets talk..	
 								</p>
 								<div class="divider-30"></div>
 							</div>
@@ -952,7 +589,7 @@
 								Write Us
 							</h6>
 							<p>
-								<a href="https://html.modernwebtemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0e6b766f637e626b4e6b766f637e626b206d6163">support@bizzmirth.com</a>
+								support@bizzmirth.com
 								<br> <!-- <a href="https://html.modernwebtemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4a2f322b273a262f0a2f322b273a262f64292527">support@bizzmirth.com</a>
  -->							</p>
 						</div>
